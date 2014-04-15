@@ -30,7 +30,7 @@ namespace ChatApplication
         public void DisplayMessage(P2PNetworking.CompositeType composite)
         {
             string username = composite.Username == null ? string.Empty : composite.Username;
-            string message = composite.Message == null ? string.Empty : composite.Message;
+            string message = composite.Message == null ? string.Empty  : composite.Message;
             textBoxChatPane.Text += (username + ": " + message + Environment.NewLine);
         }
 
