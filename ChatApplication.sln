@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatApplication", "ChatApplication\ChatApplication.csproj", "{3343F277-F48B-4F9C-917E-114327B3B18F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Main", "Main", "{21282928-C560-4BCE-9C16-62D416C86610}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WCFService", "WCFService", "{16C3DB3B-1843-4410-864C-7D8FDED3489D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2PNetworking", "P2PNetworking\P2PNetworking.csproj", "{A669F5C8-BFA3-40B3-8917-E6DBD848FFD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3343F277-F48B-4F9C-917E-114327B3B18F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3343F277-F48B-4F9C-917E-114327B3B18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3343F277-F48B-4F9C-917E-114327B3B18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3343F277-F48B-4F9C-917E-114327B3B18F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A669F5C8-BFA3-40B3-8917-E6DBD848FFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A669F5C8-BFA3-40B3-8917-E6DBD848FFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A669F5C8-BFA3-40B3-8917-E6DBD848FFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A669F5C8-BFA3-40B3-8917-E6DBD848FFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3343F277-F48B-4F9C-917E-114327B3B18F} = {21282928-C560-4BCE-9C16-62D416C86610}
+		{A669F5C8-BFA3-40B3-8917-E6DBD848FFD0} = {16C3DB3B-1843-4410-864C-7D8FDED3489D}
+	EndGlobalSection
+EndGlobal

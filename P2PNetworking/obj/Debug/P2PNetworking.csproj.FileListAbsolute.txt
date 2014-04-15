@@ -1,0 +1,4 @@
+E:\c_sharp_projects\ChatApplication\P2PNetworking\bin\Debug\P2PNetworking.dll
+E:\c_sharp_projects\ChatApplication\P2PNetworking\bin\Debug\P2PNetworking.pdb
+E:\c_sharp_projects\ChatApplication\P2PNetworking\obj\Debug\P2PNetworking.dll
+E:\c_sharp_projects\ChatApplication\P2PNetworking\obj\Debug\P2PNetworking.pdb

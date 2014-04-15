@@ -1,0 +1,10 @@
+E:\c_sharp_projects\WpfMVVMApplication\ShellService\bin\Debug\ShellService.dll
+E:\c_sharp_projects\WpfMVVMApplication\ShellService\bin\Debug\ShellService.pdb
+E:\c_sharp_projects\WpfMVVMApplication\ShellService\bin\Debug\Microsoft.Practices.Prism.dll
+E:\c_sharp_projects\WpfMVVMApplication\ShellService\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+E:\c_sharp_projects\WpfMVVMApplication\ShellService\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+E:\c_sharp_projects\WpfMVVMApplication\ShellService\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\c_sharp_projects\WpfMVVMApplication\ShellService\bin\Debug\System.Windows.Interactivity.dll
+E:\c_sharp_projects\WpfMVVMApplication\ShellService\obj\Debug\ShellService.csprojResolveAssemblyReference.cache
+E:\c_sharp_projects\WpfMVVMApplication\ShellService\obj\Debug\ShellService.dll
+E:\c_sharp_projects\WpfMVVMApplication\ShellService\obj\Debug\ShellService.pdb
