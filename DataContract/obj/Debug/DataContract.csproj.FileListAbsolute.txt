@@ -1,5 +1,0 @@
-E:\c_sharp_projects\WpfMVVMApplication\DataContract\bin\Debug\DataContract.dll
-E:\c_sharp_projects\WpfMVVMApplication\DataContract\bin\Debug\DataContract.pdb
-E:\c_sharp_projects\WpfMVVMApplication\DataContract\obj\Debug\DataContract.csprojResolveAssemblyReference.cache
-E:\c_sharp_projects\WpfMVVMApplication\DataContract\obj\Debug\DataContract.dll
-E:\c_sharp_projects\WpfMVVMApplication\DataContract\obj\Debug\DataContract.pdb

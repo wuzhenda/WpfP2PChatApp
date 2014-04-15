@@ -1,5 +1,0 @@
-E:\c_sharp_projects\WpfMVVMApplication\WpfHelper\bin\Debug\WpfHelper.dll
-E:\c_sharp_projects\WpfMVVMApplication\WpfHelper\bin\Debug\WpfHelper.pdb
-E:\c_sharp_projects\WpfMVVMApplication\WpfHelper\obj\Debug\WpfHelper.csprojResolveAssemblyReference.cache
-E:\c_sharp_projects\WpfMVVMApplication\WpfHelper\obj\Debug\WpfHelper.dll
-E:\c_sharp_projects\WpfMVVMApplication\WpfHelper\obj\Debug\WpfHelper.pdb
